@@ -1,0 +1,12 @@
+设置默认参数
+
+##### devGitCredId
+    开发`用的Git`仓库权限
+##### devGitCredId
+    打包好的服务器Package Git地址
+##### yunWeiGitCredId
+    运维用的Git仓库权限
+##### devRegistryCredId
+    开发用的Git仓库权限
+##### serverDockerfileGitUrl
+    打包好的服务器Package Git地址
